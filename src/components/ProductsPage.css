@@ -1,0 +1,21 @@
+#products-page {
+    width: 100vw;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    /* align-items: center; */
+    /* height: 100vh;  */
+    /* background-color: red; */
+}
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    /* margin-left: 250px; */
+    /* background-color: purple; */
+    
+    width: 80%;
+    justify-items: center; 
+}
